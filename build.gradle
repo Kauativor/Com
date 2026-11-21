@@ -1,0 +1,4 @@
+// Plugins do projeto (versões fixas para o build ser reproduzível)
+plugins {
+    id 'com.android.application' version '8.5.2' apply false
+}
